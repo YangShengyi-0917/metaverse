@@ -26,3 +26,15 @@ application example：
 二八奥特慢，三七日一口
 
 *****/
+
+/*****
+
+transformer matrix
+安  禄  山
+哼  一  哈
+叶  子  露
+
+matrix expansion
+叶子露，夜指路
+
+*****/
